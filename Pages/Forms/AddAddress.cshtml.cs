@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using IntegracaoCore.Models;
+using PrimeiroWebAppCore.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace IntegracaoCore.Pages.Forms
+namespace PrimeiroWebAppCore.Pages.Forms
 {
     public class AddAddressModel : PageModel
     {

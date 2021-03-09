@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IntegracaoCore.Pages
+namespace PrimeiroWebAppCore.Pages
 {
     public class PrivacyModel : PageModel
     {
